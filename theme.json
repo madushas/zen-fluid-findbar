@@ -4,9 +4,7 @@
   "description": "A compact floating find bar with fluid sizing, glass styling, smooth animations, and responsive controls.",
   "homepage": "https://github.com/madushas/fluid-findbar",
   "image": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/main/image.png",
-  "style": {
-    "chrome": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/refs/heads/main/userChrome.css"
-  },
+  "style": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/refs/heads/main/userChrome.css",
   "preferences": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/refs/heads/main/preferences.json",
   "readme": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/main/README.md",
   "author": "madushas",
