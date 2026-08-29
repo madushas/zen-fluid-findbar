@@ -7,7 +7,7 @@
   "style": {
     "chrome": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/refs/heads/main/userChrome.css"
   },
-  "preferences": "preferences.json",
+  "preferences": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/refs/heads/main/preferences.json",
   "readme": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/main/README.md",
   "author": "madushas",
   "version": "1.0.0",
