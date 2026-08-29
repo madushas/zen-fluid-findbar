@@ -1,4 +1,91 @@
 [
+  {
+    "type": "text",
+    "label": "⚙️ Fluid Find Bar Settings",
+    "margin": "8px 4px",
+    "size": "1.2em"
+  },
+  {
+    "type": "separator",
+    "label": "📍 Position",
+    "margin": "14px 0"
+  },
+  {
+    "type": "dropdown",
+    "property": "fluid_findbar.position",
+    "label": "Position",
+    "defaultValue": "top-right",
+    "options": [
+      {
+        "label": "Top Right",
+        "value": "top-right"
+      },
+      {
+        "label": "Top Center",
+        "value": "top-center"
+      },
+      {
+        "label": "Top Left",
+        "value": "top-left"
+      }
+    ]
+  },
+  {
+    "type": "separator",
+    "label": "✨ Appearance",
+    "margin": "14px 0"
+  },
+  {
+    "type": "checkbox",
+    "property": "fluid_findbar.glass_effect",
+    "label": "Enable glass effect",
+    "defaultValue": true
+  },
+  {
+    "type": "checkbox",
+    "property": "fluid_findbar.compact_mode",
+    "label": "Compact mode",
+    "defaultValue": false
+  },
+  {
+    "type": "separator",
+    "label": "🎬 Behavior",
+    "margin": "14px 0"
+  },
+  {
+    "type": "dropdown",
+    "property": "fluid_findbar.animation",
+    "label": "Animation",
+    "defaultValue": "smooth",
+    "options": [
+      {
+        "label": "Smooth",
+        "value": "smooth"
+      },
+      {
+        "label": "Instant",
+        "value": "instant"
+      }
+    ]
+  },
+  {
+    "type": "separator",
+    "label": "🧩 Information",
+    "margin": "14px 0"
+  },
+  {
+    "type": "checkbox",
+    "property": "fluid_findbar.show_match_count",
+    "label": "Show match count",
+    "defaultValue": true
+  },
+  {
+    "type": "checkbox",
+    "property": "fluid_findbar.show_options",
+    "label": "Show search options",
+    "defaultValue": true
+  }
+][
 	{
 		"type": "text",
 		"label": "⚙️ Better Find Bar Settings",
