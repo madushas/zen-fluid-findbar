@@ -5,7 +5,7 @@
   "homepage": "https://github.com/madushas/fluid-findbar",
   "image": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/main/image.png",
   "style": {
-    "chrome": "userChrome.css"
+    "chrome": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/refs/heads/main/userChrome.css"
   },
   "preferences": "preferences.json",
   "readme": "https://raw.githubusercontent.com/madushas/zen-fluid-findbar/main/README.md",
